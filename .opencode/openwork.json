@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "workspace": {
+    "name": "TryItNow",
+    "createdAt": 1780573966864,
+    "preset": "starter"
+  },
+  "authorizedRoots": [
+    "C:\\Users\\Anirudh\\Desktop\\TryItNow"
+  ],
+  "reload": null
+}
